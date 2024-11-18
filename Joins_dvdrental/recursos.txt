@@ -1,0 +1,7 @@
+Descargar base de datos de esta pagina
+https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database
+
+Paso1: Descargar pgAdmid
+Paso2: Crear nuevo servidor y crear base de datos
+paso3: importar archivo dvdrental.tar en la base de datos antes creada
+
