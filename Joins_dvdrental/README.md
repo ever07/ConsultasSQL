@@ -1,8 +1,8 @@
-*REQUISITOS*
-Descargar base de datos de esta pagina web y seguir tutorial para importar
-https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database
+## REQUISITOS
+Descargar base de datos de esta pagina web y seguir tutorial para importar  
+https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database  
 
-*CONSULTAS SOLICITADAS A BASE DE DATOS*
+## CONSULTAS SOLICITADAS A BASE DE DATOS
 
 1.	Se está haciendo un análisis de la proporción entre el costo de reemplazo por pérdida y la tarifa de alquiler de cada película. Se necesita listar las películas cuyo costo de reemplazo sea menor que cuatro veces la tarifa de alquiler.
 
